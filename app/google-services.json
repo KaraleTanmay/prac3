@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651020832609",
+    "project_id": "pra3-88a05",
+    "storage_bucket": "pra3-88a05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651020832609:android:2e31965853ca4ff1e5bf20",
+        "android_client_info": {
+          "package_name": "com.example.pra3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQrx95z1T0Yz4K-bcIwtj8JobkzRmg_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
